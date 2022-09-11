@@ -1,5 +1,5 @@
 /*
- * Public API Surface of angular-cc-library
+ * Public API Surface of angular-creditcard-library
  */
 
 export * from './lib/validators';

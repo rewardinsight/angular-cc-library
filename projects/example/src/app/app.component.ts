@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Validators, UntypedFormGroup, UntypedFormBuilder } from '@angular/forms';
-import { CreditCardValidators, CreditCard } from 'angular-cc-library';
+import { CreditCardValidators, CreditCard } from 'angular-creditcard-library';
 import { defer } from 'rxjs';
 import { map } from 'rxjs/operators';
 

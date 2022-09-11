@@ -1,0 +1,29 @@
+{
+  "name": "@reward-insight/angular-creditcard-library",
+  "version": "1.0.0",
+  "description": "angular credit card library",
+  "keywords": [
+    "angular",
+    "validate",
+    "validation",
+    "credit card",
+    "credit card format"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rewardinsight/angular-creditcard-library/issues"
+  },
+  "homepage": "https://github.com/rewardinsight/angular-creditcard-library#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rewardinsight/angular-creditcard-library.git"
+  },
+  "dependencies": {
+
+  },
+  "peerDependencies": {
+    "@angular/common": ">= 13",
+    "@angular/core": ">= 13",
+    "tslib": "^2.1.0"
+  }
+}
